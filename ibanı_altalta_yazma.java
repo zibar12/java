@@ -11,7 +11,7 @@ public class proje24 {
 		System.out.println("iban giriniz..:");
 		String iba=sca.nextLine();
 		String ilk;
-		int say=4;
+		int say;
 		int s3=4;
 		int s2=0;
 		int uzu=iba.length();
